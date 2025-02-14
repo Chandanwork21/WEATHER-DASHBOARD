@@ -23,9 +23,16 @@ The app is fully responsive, ensuring seamless usability across mobile, tablet, 
 
 ## OUTPUT IMAGES
 
+Image 1
 ![Image](https://github.com/user-attachments/assets/c8c9b9dd-c13b-4522-8c59-6ee5f5bfcba5)
+
+Image 2
 ![Image](https://github.com/user-attachments/assets/c1271961-cb98-4609-b853-1b90fbf33551)
+
+Image 3
 ![Image](https://github.com/user-attachments/assets/e59a3f95-e2bc-4cee-905f-c1ae32a8f9c5)
+
+Image 4
 ![Image](https://github.com/user-attachments/assets/c61e3216-d3a2-44c3-a0b8-35db4c3c802b)
 
 
