@@ -1,16 +1,6 @@
 # WEATHER-DASHBOARD
 
-*COMPANY*: CODTECH IT SOLUTIONS
 
-*NAME*: CHANDAN YADAV
-
-*INTERN ID*: CTO8PPI
-
-*DOMAIN*: REACT 
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTOSH
 
 ## WEATHER APP - WEATHERLY
 This Weather App, built using React, provides real-time weather updates using a weather API. It displays the current temperature, humidity, and wind speed, along with a 24-hour forecast for any searched location. 
