@@ -26,5 +26,5 @@ Image 4
 
 Note - This output images shows the weather of uploading time. There can be  different values in future. 
 
-# Live Demo :- (https://weather-dashboard-theta-ochre.vercel.app/)
+# Live Demo :- https://weather-dashboard-theta-ochre.vercel.app/
 
