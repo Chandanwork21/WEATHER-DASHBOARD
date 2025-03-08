@@ -1,6 +1,5 @@
 # WEATHER-DASHBOARD
 
-# Live Link : weather-dashboard-theta-ochre.vercel.app
 
 ## WEATHER APP - WEATHERLY
 This Weather App, built using React, provides real-time weather updates using a weather API. It displays the current temperature, humidity, and wind speed, along with a 24-hour forecast for any searched location. 
@@ -26,5 +25,7 @@ Image 4
 ![Image](https://github.com/user-attachments/assets/c61e3216-d3a2-44c3-a0b8-35db4c3c802b)
 
 Note - This output images shows the weather of uploading time. There can be  different values in future. 
+
+live link :- (https://weather-dashboard-theta-ochre.vercel.app/)
 
 
