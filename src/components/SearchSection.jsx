@@ -8,7 +8,7 @@ const SearchSection = ({ getWeatherDetails , searchInputRef }) => {
         e.preventDefault();
         const searchInput = e.target.querySelector(".search-input");
         // adding parameters to the api like search input and days.
-        const API_URL = ` http://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=${searchInput.value}&days=2`;
+        const API_URL = ` https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=${searchInput.value}&days=2`;
         getWeatherDetails(API_URL); //fetches weather details for entered cities.
     }
     // handling the location entered in search input 
