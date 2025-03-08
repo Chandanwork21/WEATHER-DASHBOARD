@@ -63,6 +63,7 @@ const App = () => {
     const API_URL = `https://api.weatherapi.com/v1/forecast.json?key=${API_KEY}&q=${defaultCity}&days=2`;
     getWeatherDetails(API_URL);
   }, []);
+     
 
   // changing background according to the current weather. 
   useEffect(() => {
