@@ -4,6 +4,7 @@ import WeatherSection from "./components/WeatherSection";
 import HourlyForecast from "./components/HourlyForecast";
 import NoResults from "./components/NoResults";
 import { weatherCodes } from "./constants";
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   const [currentWeather, setCurrentWeather] = useState({}); // managing current weather and setting weather according to cities 
@@ -35,6 +36,7 @@ const App = () => {
       const response = await fetch(API_URL);
       if (!response.ok) throw new Error();
       const data = await response.json();
+      console.log(data)
 
       // retrieving the temperature, windspeed , humidity and description from the api response.
       const temperature = Math.floor(data.current.temp_c);
@@ -105,6 +107,7 @@ const App = () => {
           </div>
         </div>
       )}
+      <Analytics />
     </div>
   );
 };
